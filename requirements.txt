@@ -3,3 +3,4 @@ transformers
 torch
 nltk
 ete3
+scipy
