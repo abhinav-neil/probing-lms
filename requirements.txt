@@ -4,3 +4,5 @@ torch
 nltk
 ete3
 scipy
+ipykernel
+gdown
